@@ -1,0 +1,32 @@
+{
+  "name": "statque",
+  "version": "0.0.1",
+  "description": "a little tool to help manage your status by using middleware",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigMurry/statque.git"
+  },
+  "keywords": [
+    "status",
+    "chain",
+    "queue",
+    "middleware"
+  ],
+  "author": "BigMurry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BigMurry/statque/issues"
+  },
+  "homepage": "https://github.com/BigMurry/statque#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
