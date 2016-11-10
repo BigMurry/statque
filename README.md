@@ -41,7 +41,7 @@ assert.equal(sq.get('nonExistKey'), undefined)
 assert.equal(sq2.get('nonExistKey'), true)
 ```
 
-## Full reference
+## Full API reference
 - constructor `SQ(defaultStatus)`
 
   ```javascript
