@@ -1,4 +1,7 @@
 # statque
+
+[![NPM](https://nodei.co/npm/statque.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/statque/)
+
 A little tool to help manage your status by using chainable function
 
 ## Install
