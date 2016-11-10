@@ -1,6 +1,7 @@
 # statque
 
 [![NPM](https://nodei.co/npm/statque.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/statque/)
+[![Coverage Status](https://coveralls.io/repos/github/BigMurry/statque/badge.svg?branch=master)](https://coveralls.io/github/BigMurry/statque?branch=master)
 
 A little tool to help manage your status by using chainable function
 
