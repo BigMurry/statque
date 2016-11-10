@@ -88,4 +88,7 @@ assert.equal(sq2.get('nonExistKey'), true)
     //can be retrieved in use handlers
     sq.use((key, status) => {
       const props = this.props
-      assert.deepE
+      assert.deepEqual(props, {a: 1, b: 2})
+      return status
+    })
+  ```

@@ -1,6 +1,6 @@
 {
   "name": "statque",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a little tool to help manage your status by using middleware",
   "main": "lib/index.js",
   "directories": {
