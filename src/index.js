@@ -1,3 +1,4 @@
+require('./polyfill')()
 module.exports = class SQ {
   constructor (status) {
     this.handlers = []
