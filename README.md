@@ -1,7 +1,14 @@
 # statque
 
 [![NPM](https://nodei.co/npm/statque.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/statque/)
+
 [![Coverage Status](https://coveralls.io/repos/github/BigMurry/statque/badge.svg?branch=master)](https://coveralls.io/github/BigMurry/statque?branch=master)
+[![Travis][travis-badge]][build]
+
+
+[travis-badge]:https://travis-ci.org/BigMurry/statque.svg?branch=master
+[build]:https://travis-ci.org/BigMurry/statque/            
+
 
 A little tool to help manage your status by using chainable function
 
@@ -81,8 +88,4 @@ assert.equal(sq2.get('nonExistKey'), true)
     //can be retrieved in use handlers
     sq.use((key, status) => {
       const props = this.props
-      assert.deepEqual(props, {a: 1, b: 2})
-      return status
-    })
-
-  ```
+      assert.deepE
