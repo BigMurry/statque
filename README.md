@@ -92,3 +92,10 @@ assert.equal(sq2.get('nonExistKey'), true)
       return status
     })
   ```
+  
+  
+  [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+  
+  # License
+  
+  ## MIT
